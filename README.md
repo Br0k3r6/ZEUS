@@ -14,4 +14,5 @@ Resolving deltas: 100% (1/1), done.
 root@localhost$ cd ZEUS/
 root@localhost$ chmod +x setup.sh
 root@localhost$ bash setup.sh
+root@localhost$ python3 main.py
 ```
