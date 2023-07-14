@@ -2,6 +2,8 @@ Simple but very powerfull DoS tool created by Russian.Hzcker
 
 *** READ THE LICENSE BEFORE USING THIS TOOL ***
 
+This tool may not work in WSL
+
 Installation: (Make sure you have python3 and python3-pip installed.
 ```
 root@localhost$ git clone https://github.com/Br0k3r6/ZEUS.git
