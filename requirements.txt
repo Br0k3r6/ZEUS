@@ -1,0 +1,4 @@
+faker
+requests
+colorama
+simple_term_menu
